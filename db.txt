@@ -1,0 +1,6 @@
+
+database name =test
+table name = login
+
+username=test
+password=test
